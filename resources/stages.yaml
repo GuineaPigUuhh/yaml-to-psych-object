@@ -1,0 +1,13 @@
+stage: 
+    - {
+      tag: background,
+      img: background,
+      anims: [],
+      pos: [200, 6]
+    }
+    - {
+      tag: frontground,
+      img: frontground,
+      anims: [],
+      pos: [200, 2]
+    }
